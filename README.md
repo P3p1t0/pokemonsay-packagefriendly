@@ -13,8 +13,8 @@ This Github repository is based on rominzxx/pokemonsay (https://github.com/romin
 
 If you use a Arch-based distribution, you can use the pre-made package or the PKGBUILD available in my other Github repository : https://github.com/P3p1t0/pokemonsay-archbased .
 
-Dependency: cowsay
-Optional dependency: cowfortune (For fortune cookies)
+Dependency: cowsay.
+Optional dependency: cowfortune (For fortune cookies).
 
 ## Usage
 
