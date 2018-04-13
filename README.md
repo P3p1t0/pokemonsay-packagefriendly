@@ -1,6 +1,7 @@
 pokemonsay (Package-friendly)
 ==========
 Based on rominzxx/pokemonsay : https://github.com/rominzxx/pokemonsay
+
 Version : 20171228 (Lastest commit : aef1b07fe5b122af812dedff4dfa81c47b3ceaf6 )
 
 ![You should try pokemonsay!](example.png)
@@ -13,9 +14,9 @@ This Github repository is based on rominzxx/pokemonsay (https://github.com/romin
 
 If you use a Arch-based distribution (For example: Arch Linux, Manjaro, etc.), you can use the pre-made package or the PKGBUILD available in my other Github repository : https://github.com/P3p1t0/pokemonsay-archbased .
 
-Dependency: cowsay.
+Dependency: cowsay
 
-Optional dependency: cowfortune (For fortune cookies).
+Optional dependency: cowfortune (For fortune cookies)
 
 ## Usage
 
