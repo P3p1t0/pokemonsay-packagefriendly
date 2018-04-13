@@ -11,6 +11,34 @@ This Github repository is based on rominzxx/pokemonsay (https://github.com/romin
 
 ## Installation
 
+If you use a Arch-based distribution, you can use the pre-made package or the PKGBUILD available in my other Github repository : https://github.com/P3p1t0/pokemonsay-archbased .
+
+Dependency: cowsay
+Optional dependency: cowfortune (For fortune cookies)
+
+## Usage
+
+Now that you've installed `pokemonsay`, you can make it work like so:
+
+```bash
+$ pokemonsay Hello World
+```
+
+To have a random pokémon saying some random thing to you, use `fortune`:
+
+```bash
+$ fortune | pokemonsay
+```
+
+And if you really like it, you can add the command above to the end of your `~/.bashrc` file (or equivalent). So you will have a random pokémon speaking to you whenever you open a new terminal window! :D
+
+You get a cowthink-like version too. Try it:
+
+```bash
+$ pokemonthink --pokemon Charmander "Should I wear some clothes?"
+```
+
+
 ## NOTICE
 
 Please notice I don't own Pokémon or anything related to it. Pokémon is property of [The Pokémon Company][the-pokemon-company].
